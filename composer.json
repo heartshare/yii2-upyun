@@ -1,15 +1,11 @@
 {
-	"name": "upyun/yii2",
+	"name": "liao0007/yii2-upyun",
 	"description": "Upyun API wrapper for the Yii framework",
 	"keywords": ["yii2", "upyun", "cdn", "cache"],
 	"type": "yii2-extension",
 	"license": "BSD-3-Clause",
 	"support": {
-		"issues": "https://github.com/liao0007/upyun-yii2/issues",
-		"forum": "https://github.com/liao0007/upyun-yii2/wiki/forum/",
-		"wiki": "https://github.com/liao0007/upyun-yii2/wiki",
-		"irc": "",
-		"source": "https://github.com/liao0007/upyun-yii2"
+		"source": "https://github.com/liao0007/yii2-upyun"
 	},
 	"authors": [
 		{
@@ -21,6 +17,6 @@
 		"yiisoft/yii2": "*"
 	},
 	"autoload": {
-		"psr-4": { "upyun\\yii2\\": "" }
+		"psr-4": { "liao0007\\yii2\\upyun\\": "" }
 	}
 }

@@ -1,5 +1,5 @@
 <?php
-namespace upyun\yii2;
+namespace liao0007\yii2\upyun;
 
 use Yii;
 use \yii\web\AssetManager;
